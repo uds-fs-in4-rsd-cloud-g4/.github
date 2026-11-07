@@ -1,9 +1,14 @@
 # Journal des Modifications (Changelog) - Organisation GitHub
 
-## [Unreleased]
-- Amélioration continue de la présentation du profil de l'organisation.
+Toutes les modifications notables apportées à la configuration de l'organisation sont documentées dans ce fichier.
 
-## [v1.0.0] - 2026-11-05
+## [Unreleased]
+- Maintenance et optimisation des modèles d'automatisation.
+
+## [v1.0.0] - 2026-11-06
 ### Ajouts
-- Déploiement initial de la landing page officielle de l'organisation académique.
-- Alignement des libellés avec la nomenclature de l'Université de Dschang (Master 1 RSD, 2026-2027).
+- Déploiement initial de la landing page officielle de l'organisation académique (`profile/README.md`).
+- Alignement des libellés avec la nomenclature de l'Université de Dschang (Master 1 RSD, 2026).
+- Implémentation du modèle universel de Pull Request (`PULL_REQUEST_TEMPLATE.md`) intégrant la check-list de conformité au Standard-0000.
+- Intégration des modèles d'issues GitHub (`bug_report.md` et `feature_request.md`).
+- Mise à niveau du `README.md` racine de configuration.
